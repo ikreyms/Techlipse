@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 81.843827 25.098759"
+   height="25.098759mm"
+   width="81.843826mm"
+   sodipodi:docname="oltex.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="1.860272"
+     inkscape:cx="78.793163"
+     inkscape:cy="36.629638"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     fit-margin-left="1e-05"
+     fit-margin-top="1e-05"
+     fit-margin-bottom="1e-05"
+     fit-margin-right="1e-05"
+     inkscape:pagecheckerboard="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1128">
+      <stop
+         id="stop1124"
+         offset="0"
+         style="stop-color:#3f3b37;stop-opacity:1;" />
+      <stop
+         id="stop1126"
+         offset="1"
+         style="stop-color:#3f3b37;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="279.80695"
+       x2="84.321251"
+       y1="279.80695"
+       x1="32.653633"
+       id="linearGradient1130"
+       xlink:href="#linearGradient1128" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot893"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0.26458333,0,0,0.26458333,-3.5357654,-267.25761)"><flowRegion
+       id="flowRegion895"><rect
+         id="rect897"
+         width="322.81934"
+         height="278.68835"
+         x="-420.47049"
+         y="427.04321" /></flowRegion><flowPara
+       id="flowPara899" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot926"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0.26458333,0,0,0.26458333,-3.5357654,-267.25761)"><flowRegion
+       id="flowRegion928"><rect
+         id="rect930"
+         width="116.75462"
+         height="97.382774"
+         x="152.88048"
+         y="717.80524" /></flowRegion><flowPara
+       id="flowPara932" /></flowRoot>  <path
+     inkscape:connector-curvature="0"
+     id="path1079"
+     d="M 12.54931,1e-5 A 12.549358,12.549315 0 0 0 5.50841,2.17569 H 19.60892 A 12.549358,12.549315 0 0 0 12.54931,1e-5 Z M 5.1675,4.24257 c -0.51234,0 -0.92482,0.39998 -0.92482,0.89679 V 19.9592 c 0,0.49682 0.41248,0.89679 0.92482,0.89679 h 14.76372 c 0.51235,0 0.92483,-0.39997 0.92483,-0.89679 V 5.13936 c 0,-0.49681 -0.41248,-0.89679 -0.92483,-0.89679 z M 2.17578,5.48979 A 12.549358,12.549315 0 0 0 1e-5,12.54928 12.549358,12.549315 0 0 0 2.17578,19.59036 Z m 20.74716,0.0187 v 14.10038 a 12.549358,12.549315 0 0 0 2.17579,-7.0595 12.549358,12.549315 0 0 0 -2.17579,-7.04088 z M 12.54941,16.33281 a 1.5034194,1.5034142 0 0 1 1.50334,1.50342 1.5034194,1.5034142 0 0 1 -1.50334,1.50344 1.5034194,1.5034142 0 0 1 -1.50343,-1.50344 1.5034194,1.5034142 0 0 1 1.50343,-1.50342 z M 5.4898,22.92297 a 12.549358,12.549315 0 0 0 7.05951,2.17578 12.549358,12.549315 0 0 0 7.04101,-2.17578 z"
+     style="fill:#fbf9fb;fill-opacity:0.98492462;fill-rule:evenodd;stroke-width:0.26458332" />
+  <g
+     aria-label="LTEX"
+     style="font-style:normal;font-weight:normal;font-size:28.73853111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fbf9fb;fill-opacity:0.98492462;stroke:none;stroke-width:0.26458332"
+     id="text1122"
+     transform="translate(1.0582433,-9e-5)">
+    <path
+       d="M 38.168912,20.232256 H 29.117959 V 4.8666839 h 1.122599 V 19.109657 h 7.928354 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti';fill:#fbf9fb;fill-opacity:0.98492462;stroke-width:0.26458332"
+       id="path854"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 51.766391,5.9892828 H 46.391949 V 20.232256 H 45.26935 V 5.9892828 H 39.951038 V 4.8666839 h 11.815353 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti';fill:#fbf9fb;fill-opacity:0.98492462;stroke-width:0.26458332"
+       id="path856"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 65.672584,20.232256 H 54.572888 V 4.8666839 h 10.720819 v 1.1225989 h -9.59822 V 11.67244 h 8.994823 v 1.122598 h -8.994823 v 6.314619 h 9.977097 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti';fill:#fbf9fb;fill-opacity:0.98492462;stroke-width:0.26458332"
+       id="path858"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 69.601684,4.8666839 4.897337,6.7496261 4.897338,-6.7496261 h 1.389216 l -5.598962,7.6898021 5.584929,7.67577 h -1.375183 l -4.897338,-6.721561 -4.897337,6.721561 H 68.2265 l 5.584929,-7.67577 -5.598962,-7.6898021 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti';fill:#fbf9fb;fill-opacity:0.98492462;stroke-width:0.26458332"
+       id="path860"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
